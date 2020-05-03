@@ -1,8 +1,13 @@
 #Self-introduction
+
 **1. Basic information**
+
 *Name: Pu Yuan
+
 *Age: 20
+
 *Major: Computer Science
+
 *Description: Newbie, pesudo-geeker, struggling and exploring. 
 
 **2. Skills**
