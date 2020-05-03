@@ -1,4 +1,4 @@
-#Self-introduction
+# Self-introduction
 
 **1. Basic information**
 
@@ -34,3 +34,6 @@ CSCI3251|Praticum
 - [ ] To write a web chat app
 - [ ] Final
 - [ ] Summer research
+
+**5. Screenshot**
+![screenshot] (/screenshot.png)
