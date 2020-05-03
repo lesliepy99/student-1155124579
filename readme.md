@@ -12,13 +12,15 @@
 * Newbie, pesudo-geeker, struggling and exploring. 
 
 **2. Skills**
-1. Programming language
-  1. C
-  1. Java
-  1. Javascript
-1. Web application
-  1. HTML and CSS
-  1. MERN
+* Programming language
+  * C
+  * Java
+  * Javascript
+* Web application
+  * HTML and CSS
+  * MERN
+  
+  
 **3. Course taken**
 Course code | Course name
 ------------|------------
@@ -29,6 +31,6 @@ CSCI3250|Computer and society
 CSCI3251|Praticum
 
 **4. Plans left**
--[]To write a web chat app
--[]Final
--[]Summer research
+- [] To write a web chat app
+- [] Final
+- [] Summer research
