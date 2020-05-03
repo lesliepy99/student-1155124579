@@ -1,5 +1,7 @@
 # Self-introduction
 
+![Avatar](https://avatars.githubusercontent.com/lesliepy99)
+
 **1. Basic information**
 
 - Name: 
