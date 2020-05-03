@@ -31,6 +31,6 @@ CSCI3250|Computer and society
 CSCI3251|Praticum
 
 **4. Plans left**
-- [] To write a web chat app
-- [] Final
-- [] Summer research
+- [ ] To write a web chat app
+- [ ] Final
+- [ ] Summer research
