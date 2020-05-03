@@ -36,4 +36,5 @@ CSCI3251|Praticum
 - [ ] Summer research
 
 **5. Screenshot**
-![screenshot] (/screenshot.png)
+![Screenshot](/milestone2_1155124579.png)
+___  
